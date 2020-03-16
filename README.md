@@ -2,7 +2,7 @@
 GitHub Profile Finder web application using jquery and ajax
 ![alt](https://raw.githubusercontent.com/KingCobra2018/GitHub-Profile-Finder/master/Demo.gif)
 
-## Documentations
+## Documentation
 https://developer.github.com/v3/
 
 https://getbootstrap.com/
